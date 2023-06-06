@@ -35,7 +35,7 @@ mengapa pada sytax diatas terdapat banyak null dikarenakan satu sama lain tidak 
 4 Lakukan join tabel KrsMahasiswa, Mahasiswa, Matakuliah, dan Dosen
 ![tg4](https://github.com/DimasF3009/Basis-Data-Praktikum-5/assets/115356128/7b5a1c72-176d-46e7-b63f-7c6d29d74972)
 
-# LATIHAN
+# CARA PENGERJAAN
 
 1. JOIN table Mahasiswa dan Dosen
 ```
